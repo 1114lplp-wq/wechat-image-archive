@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信图片复制归档"
+  short_description: "主动复制微信图片后自动本地保存，用文字识别初步命名，无需调用模型"
+  default_prompt: "使用 $wechat-image-archive 配置或检查微信图片的本地复制归档。"
